@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Nick, a Senior DevOps Engineer with over 5 plus years of experience. My expertise lies in DevOps, Platform Engineering, and Site Reliability Engineering (SRE) with a strong focus on AWS cloud solutions. I've worked on diverse projects in Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code domains, developing solutions that are highly available, secure, auto-scalable, self-healing, and cost-effective.
+Hello! I'm Nicholas, a Senior DevOps Engineer with over 5 plus years of experience. My expertise lies in DevOps, Platform Engineering, and Site Reliability Engineering (SRE) with a strong focus on AWS cloud solutions. I've worked on diverse projects in Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code domains, developing solutions that are highly available, secure, auto-scalable, self-healing, and cost-effective.
 
 ## GitHub Repositories
 
