@@ -1,5 +1,3 @@
-# Nick
-
 ## About Me
 
 Hello! I'm Nick, a Senior DevOps Engineer with over 5 plus years of experience. My expertise lies in DevOps, Platform Engineering, and Site Reliability Engineering (SRE) with a strong focus on AWS cloud solutions. I've worked on diverse projects in Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code domains, developing solutions that are highly available, secure, auto-scalable, self-healing, and cost-effective.
@@ -11,11 +9,6 @@ Hello! I'm Nick, a Senior DevOps Engineer with over 5 plus years of experience. 
 - **[aws-alerts](https://github.com/CaptainNick01/aws-alerts)**: Monitors AWS resources for failures, errors, warnings, and terminations, sending alerts to Slack.
 - **[pyhton_test_script](https://github.com/CaptainNick01/python_test_script)**: A collection of Python scripts for testing and automating tasks, demonstrating practical use cases and script functionality.
 - **[etcd-backup-and-restore](https://github.com/CaptainNick01/etcd-backup-and-restore)**: Bash scripts for backing up and restoring etcd data in JSON format, with compression and S3 upload/download capabilities.
-- **[aws-auto-terminate-idle-emr](https://github.com/yourusername/aws-auto-terminate-idle-emr)**: Automatically terminates idle AWS EMR clusters after a specified period using AWS CloudWatch and Lambda.
-- **[aws-ssm-parameter-store-backup](https://github.com/yourusername/aws-ssm-parameter-store-backup)**: Terraform module for backing up AWS SSM Parameter Store parameters to S3.
-- **[devops-helper-scripts](https://github.com/yourusername/devops-helper-scripts)**: Various helper scripts for DevOps and AWS.
-- **[vizion-api-python-integration-for-aws](https://github.com/yourusername/vizion-api-python-integration-for-aws)**: Python integration with Vizion API using Flask and AWS Lambda/API Gateway, deployable via Serverless Framework.
-- **[ak-encoder-decoder](https://github.com/yourusername/ak-encoder-decoder)**: Python tool for encoding and decoding texts and secrets, available as executables for Windows and Linux.
 
 ## Skills
 
