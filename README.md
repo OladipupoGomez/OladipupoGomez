@@ -6,7 +6,7 @@ Hello! I'm Nick, a Senior DevOps Engineer with over 5 plus years of experience. 
 
 ## GitHub Repositories
 
-- **[aws-alerts](https://github.com/yourusername/aws-alerts)**: Monitors AWS resources for failures, errors, warnings, and terminations, sending alerts to Slack.
+- **[aws-alerts](https://github.com/CaptainNick01/aws-alerts)**: Monitors AWS resources for failures, errors, warnings, and terminations, sending alerts to Slack.
 - **[find-and-report-secrets-in-code](https://github.com/yourusername/find-and-report-secrets-in-code)**: Detects secrets in Git repositories using Gitleaks, generates JSON reports, and updates an Atlassian Confluence page with findings. Alerts are sent to Slack.
 - **[mongodb-cluster-on-aws-ecs](https://github.com/yourusername/mongodb-cluster-on-aws-ecs)**: Terraform module for deploying secure, persistent, and highly available MongoDB clusters on AWS ECS.
 - **[simple-elasticsearch-cleaner](https://github.com/yourusername/simple-elasticsearch-cleaner)**: Python script to clean up Elasticsearch indices and data streams older than a specified number of days.
