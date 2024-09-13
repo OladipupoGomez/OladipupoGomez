@@ -7,9 +7,9 @@ Hello! I'm Nick, a Senior DevOps Engineer with over 5 plus years of experience. 
 ## GitHub Repositories
 
 - **[mongodb-cluster-on-aws-ecs](https://github.com/CaptainNick01/mongodb-cluster-on-aws-ecs)**: Terraform module for deploying secure, persistent, and highly available MongoDB clusters on AWS ECS.
-- **[find-and-report-secrets-in-code](https://github.com/yourusername/find-and-report-secrets-in-code)**: Detects secrets in Git repositories using Gitleaks, generates JSON reports, and updates an Atlassian Confluence page with findings. Alerts are sent to Slack.
+- **[gke_cluster](https://github.com/CaptainNick01/gke_cluster)**: Provides Terraform configurations to deploy and manage a Google Kubernetes Engine (GKE) cluster. It simplifies the setup of a scalable, managed Kubernetes environment on Google Cloud Platform.
 - **[aws-alerts](https://github.com/CaptainNick01/aws-alerts)**: Monitors AWS resources for failures, errors, warnings, and terminations, sending alerts to Slack.
-- **[simple-elasticsearch-cleaner](https://github.com/yourusername/simple-elasticsearch-cleaner)**: Python script to clean up Elasticsearch indices and data streams older than a specified number of days.
+- **[pyhton_test_script](https://github.com/CaptainNick01/python_test_script)**: A collection of Python scripts for testing and automating tasks, demonstrating practical use cases and script functionality.
 - **[etcd-backup-and-restore](https://github.com/CaptainNick01/etcd-backup-and-restore)**: Bash scripts for backing up and restoring etcd data in JSON format, with compression and S3 upload/download capabilities.
 - **[aws-auto-terminate-idle-emr](https://github.com/yourusername/aws-auto-terminate-idle-emr)**: Automatically terminates idle AWS EMR clusters after a specified period using AWS CloudWatch and Lambda.
 - **[aws-ssm-parameter-store-backup](https://github.com/yourusername/aws-ssm-parameter-store-backup)**: Terraform module for backing up AWS SSM Parameter Store parameters to S3.
@@ -20,7 +20,7 @@ Hello! I'm Nick, a Senior DevOps Engineer with over 5 plus years of experience. 
 ## Skills
 
 - **Programming Languages**: Python (Boto3 for AWS), Bash/Shell, JavaScript, YAML, Node.js
-- **CI/CD**: Jenkins, GitLab CI, GitHub Actions, BitBucket Pipelines, AWS CodeDeploy/CodeBuild/CodePipeline
+- **CI/CD**: Jenkins, GitLab CI, GitHub Actions, BitBucket Pipelines, AWS CodeDeploy/CodeBuild/CodePipeline, Azure Pipelines
 - **Containerization**: Docker, Kubernetes, Helm
 - **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation, Ansible, Azure-Resource-Manager
 - **Logging**: Elasticsearch, Filebeat, Logstash, Fluentd, Kibana, Papertrail, Loggly, Rollbar, Dynatrace, AWS CloudWatch, Azure-Monitor
